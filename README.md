@@ -50,7 +50,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/shopping-trends-analysis.git
+git clone https://github.com/vsviswanadh/shopping_trends.git
 Open shopping_trends.ipynb in Jupyter Notebook.
 
 Run the notebook to view the complete analysis.
